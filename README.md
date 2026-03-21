@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm avishkaraut
+# Hey there! 👋 I'm avishkar raut
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community.
 
